@@ -1,0 +1,3 @@
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/Ezstein-dev/FastAPI-Ezsdev-chat-app/tree/main/frontend.git
